@@ -1,7 +1,7 @@
 {
-	"host": "Newtonians-1.aternos.me",
-	"port": "40211",
-	"username": "Aki",
+	"host": "plumayiff.aternos.me",
+	"port": "28248",
+	"username": "SoyUnBot",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
